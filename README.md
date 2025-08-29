@@ -1,14 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+# Herb's Portfolio
+This is my public portfolio for Telling Stories with Data at CMU!  For each assignment I worked to push my understanding of effective data visualization. I find this is a invaluble skill at any level of management and will help me display not only data given to me, but be able to truly undertsand data on a deeper level, thus give organizations a better understanding of their performance. 
 
 # About me
 My name is Herbert Gordon, I was born in New York, but raised in Pittsburgh. In 2024 I graduated from The University of Pittsburgh majoring in English literature and Classics. I graduated with departmental honors in Classics, writing, _Homer To Harring: Classical Myth in Late Twentieth Century Art_, as a culmination of my research of art and ancient civilizations, mytghologies, and cultures.  I love the arts and their ability to communicate across culture and how they can express an infinate number of feelings. I love working in art galleries and museums because it allows people to connect with other in ways they might not have expected. I strive to create spaces where these connections are invited, and the gallery is converted into a safe space without the social pressures or barriers it is commonly perceived to have. In my personal life I love to play tennis and rock climb, spending time with friends, and exploring food and culture.
