@@ -11,20 +11,14 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+My name is Herbert Gordon, I was born in New York, but raised in Pittsburgh. In 2024 I graduated from The University of Pittsburgh majoring in English literature and Classics. I graduated with departmental honors in Classics, writing, _Homer To Harring: Classical Myth in Late Twentieth Century Art_, as a culmination of my research of art and ancient civilizations, mytghologies, and cultures.  I love the arts and their ability to communicate across culture and how they can express an infinate number of feelings. I love working in art galleries and museums because it allows people to connect with other in ways they might not have expected. I strive to create spaces where these connections are invited, and the gallery is converted into a safe space without the social pressures or barriers it is commonly perceived to have. In my personal life I love to play tennis and rock climb, spending time with friends, and exploring food and culture.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I hope through this class I can learn how to present data that is more digestible. I think that the arts are vastly bias to qualitative values, however in order to be successful they must also adopt quantitative data. I would love to learn how to show data to a diverse background, and still be effective in showing what the data displays  
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Utilize color theory 
+2. Effectively emphasize specific data points without ignoring other data
+3. Creatively display quantitative data to engage viewers
 
 # Portfolio
 
