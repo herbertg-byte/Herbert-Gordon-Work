@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Herb's Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  For each assignment I worked to push my understanding of effective data visualization. I find this is a invaluble skill at any level of management and will help me display not only data given to me, but be able to truly undertsand data on a deeper level, thus give organizations a better understanding of their performance. 
+This is my public portfolio for Telling Stories with Data at CMU!  For each assignment I worked to push my understanding of effective data visualization. I find this is a invaluable skill at any level of management. It helps me display, not only, raw data given to me, but the ability to truly undertsand data on a deeper level, thus give organizations a better understanding of their performance. 
 
 # About me
 My name is Herbert Gordon, I was born in New York, but raised in Pittsburgh. In 2024 I graduated from The University of Pittsburgh majoring in English literature and Classics. I graduated with departmental honors in Classics, writing, _Homer To Harring: Classical Myth in Late Twentieth Century Art_, as a culmination of my research of art and ancient civilizations, mytghologies, and cultures.  I love the arts and their ability to communicate across culture and how they can express an infinate number of feelings. I love working in art galleries and museums because it allows people to connect with other in ways they might not have expected. I strive to create spaces where these connections are invited, and the gallery is converted into a safe space without the social pressures or barriers it is commonly perceived to have. In my personal life I love to play tennis and rock climb, spending time with friends, and exploring food and culture.
@@ -51,7 +51,6 @@ You can build tables like this:
 
 An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
 
-You can use different headings, like this: 
 
 # Here's a large title (H1)
 ## Here's a subtitle (H2)
@@ -72,28 +71,6 @@ Alternately, you can set the size of the image using just a bit of HTML:
 
 Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
 
-### Setting up a separate page
 
-So here's the code you'll need to add to your own site to create a second page. 
 
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
