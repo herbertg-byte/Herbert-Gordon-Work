@@ -6,7 +6,7 @@ Through my development of the project I felt it was necessary to show that small
 # User research 
 
 ## Target audience
-I want to pitch my story to people who are interested in starting their art collection or current collectors who want a better understanding of the art market
+After viewing my [website](https://preview.shorthand.com/K9fd92B6kSiYK8RA) I want to pitch my story to people who are interested in starting their art collection or current collectors who want a better understanding of the art market
 
 
 ## Interview script
@@ -22,7 +22,7 @@ I want to pitch my story to people who are interested in starting their art coll
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+I think I need to change my colors of the graphs and then create a better punch-line to drive home my ideas and findings.
 
 Text here!
 
@@ -46,8 +46,5 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
 
 
