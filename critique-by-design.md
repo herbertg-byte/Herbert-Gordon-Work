@@ -1,59 +1,20 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Redesigning The Highest Paid Athletes of 2023 table 
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+For this assignment I took a [table](https://www.forbes.com/lists/athletes/?sh=162054105b7e) from Forbes that simply listed out the 50 highest paid athletes of 2023. I thought that for sports fans, many of which are stats obsessed, a more creative way to show this data would be better. I thought about what sports fans value and from there made decisions to group every athlete by their respective sport. However, I still wanted to create a visually apealing graph that showed the hierarchy of the earners. I found that a tree-map was a great way to categorize while also showing the highest earners in each category. In my original design I did not have any hierarchy of text within a section, and thing caused some difficulties for some of my peers when they first saw my graph. I took this into consideration when I went into my redesign. I prioritized the net anount of earnings over the name of the athletes and their rank. I think a major takeaway from this dataset is the vast amount of money that athletes are making in the twenty-first centry. Seeing a number like $100 million makes people stop and think about how much these players are making. Additionally, my classmates brought the graph's legend to my attention. At first it was displayed in alphabetical order. They said that because 'auto racing' was at the top their eyes immediately drawn to the yellow section of the graph, which with all due respect, does not make up a significant portion of the graph. I also want to note the color of each category. To the best of my ability I used colors that would reflect the sport. It is a very minute detail that makes a difference when readers see each sport. The orange of the basketball category reflects the orange basketball, the red of the boxing category draws on red boxing gloves, and a dark brown to resemble an american football.
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+My classmates led me to change the hierarchy of the text and add the ranking of each athlete and I was able to impliment that in my final graph. However, something I was not able to impliment was making the top earners in each category stand out. I wanted to do this by having the top earners have an 100% opacity while the others in the category would have a 85% opacity. I was disapointed I could not figure this out on my own. I even asked Gemini, Google's generative AI, for help, but after coding new calculations for Tableau, I was not able to get the visual effect I wanted. I think this was a valuble lesson. Especially in the data visual field, the data's story must remain the focal point. I was not willing to sacrifice the data's story to add a special effect to my visual design. Finally I'm proud of how I took this bleak table from the article and created my own interpretation. It shows how data visualizion can tell an entirely new story based on how it is presented. 
+You may also use this link [Herb's Reimagined Graph](https://public.tableau.com/views/The50HighestPaidAthletesin2023/Sheet1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Step one: the visualization
+<div class='tableauPlaceholder' id='viz1758244716955' style='position: relative'><noscript><a href='#'><img alt='The 50 Highest Paid Athletes in 2023 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;The50HighestPaidAthletesin2023&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='The50HighestPaidAthletesin2023&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Th&#47;The50HighestPaidAthletesin2023&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+var divElement = document.getElementById('viz1758244716955');                    
+var vizElement = divElement.getElementsByTagName('object')[0];
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+var scriptElement = document.createElement('script');
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
-
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
-
-## Step three: Sketch a solution
-
-## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
-
-## Step five: build the solution
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+-Herbert Gordon, September 18, 2025
